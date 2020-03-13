@@ -1,0 +1,36 @@
+.new-friend{
+    display: flex;
+    border: 1px solid lightgrey;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    margin-right: 10px;
+    margin-left: 10%;
+    color: #3B5998;
+    background-color: #DFE3EE;
+}
+
+.friend-name{
+    
+    color: #3B5998;
+    
+    
+}
+.profile-image{
+    float: left;
+}
+.add-button{
+    background-color: #3B5998;
+    color: #F7F7F7;
+    width: 150px;
+    height: 30px;
+    border: 1px solid darkgrey;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.profile-image img{
+    border-radius: 5px;
+    margin: 15px;
+    height: 350px;
+    width: 300px;
+
+}

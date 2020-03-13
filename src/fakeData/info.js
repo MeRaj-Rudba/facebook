@@ -1,6 +1,5 @@
 
-var info =
-[
+var info =[
     {
       "id": 1,
       "name": "Akib Rahman",
